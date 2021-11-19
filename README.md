@@ -2,7 +2,7 @@
 
 ## Problem Statement
 
-Detect Name, Father Name, Gender, Date of birth, Date of Issue and Date of expiry
+Detect User Name, Father Name, Gender, Date of birth, Date of Issue and Date of expiry
 from CNIC.
 
 ## Solution
