@@ -115,12 +115,6 @@ docker run -p 8080:8080 cnic_extraction
 ```
 (7) it will run flask app at localhost:8080 in your default browser like this:
 
-#### Input 
-![image](https://user-images.githubusercontent.com/30461028/98629432-a946d900-233a-11eb-99e4-8c9173ce6177.png)
-
-#### Output
-![image](https://user-images.githubusercontent.com/30461028/98629507-d5faf080-233a-11eb-91aa-07e2acefbeb4.png)
-
 
 
  
