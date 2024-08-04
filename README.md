@@ -24,7 +24,6 @@ reader = easyocr.Reader(['en'])
 image_path = "data/cnic_5.jpg"
 result = reader.readtext(image_path)
 ```
-![Sample_CNIC](https://user-images.githubusercontent.com/30461028/98521241-00926e00-2295-11eb-8a95-b7f5b2bf2ae2.PNG)
 
 ## Results
 
